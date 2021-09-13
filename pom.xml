@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://3.138.169.135:8081/repository/tdbank-ugrade-release/</url>
+	      <url>http://3.138.198.77:8081/repository/group15-checker-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.138.169.135:8081/repository/tdbank-ugrade-Snapshots/</url>
+	      <url>http://3.138.198.77:8081/repository/group15-checker-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
