@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Landmark Technologies</h1>
-<h2 align="center"> Welcome to Landmark Technology. 
+<h2 align="center"> Welcome to Etech consulting LLC. 
 	Landmark Technology is a an ideal online training  platform for DevOps and Cloud Engineers.I am proud to be part of the millionaire club and thank you ! 
 	We offer interview preparations and job assitance.
 	The shout of the King is in our midst. His name is JESUS.  HE IS OUR SUCCESS ACCESS KEY</h2>
