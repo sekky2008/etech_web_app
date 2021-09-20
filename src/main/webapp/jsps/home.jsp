@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Landmark group15 welcome's you</h1>
+<h1 align="center">Landmark group15 </h1>
 <h2 align="center"> Happy sunday fellow engineers. 
 	Landmark Technology is a an ideal online training  platform for DevOps and Cloud Engineers.I am proud to be part of the millionaire club and thank you 
 	We offer interview preparations and job assitance all the time.This is a very rich technical skills to have 5 
