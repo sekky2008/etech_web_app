@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://172.31.22.137:8081/repository/tdbank-ugrade-release/</url>
+	      <url>http://172.31.22.137:8081/repository/uber-ugrade-Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.22.137:8081/repository/tdbank-ugrade-Snapshots/</url>
+	      <url>http://172.31.22.137:8081/repository/uber-ugrade-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
