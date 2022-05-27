@@ -11,7 +11,10 @@ agent any
     }
     stage('k8s-test'){
       steps{
-      sh ' kubectl get ns '
+     withKubeConfig(caCertificate: '', clusterName: '', contextName: '', credentialsId: 'kubesecrete', namespace: '', serverUrl: '') {
+       sh ' kubectl get ns '
+    // some block
+}
       }
     }
   }
