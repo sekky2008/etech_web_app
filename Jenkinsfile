@@ -11,7 +11,7 @@ agent any
     }
     stage('k8s-test'){
       steps{
-      sh ' kubectl get pods -n kube-system '
+      sh ' kubectl get ns '
       }
     }
   }
